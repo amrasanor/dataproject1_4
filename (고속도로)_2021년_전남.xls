@@ -1,0 +1,2707 @@
+
+
+
+
+
+
+
+
+	
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+table {width:100%;border-top:1px solid #737678;}
+td {border:1px solid #cccccc;text-align:center;vertical-align:middle;}
+.format-text-excel {mso-number-format:\@;}
+</style>
+
+<h></h>
+<table id="tableAllAcdntInfoList">
+	<colgroup>
+		<col width="40px;" />
+		<col width="103px;" />
+		<col width="135px;" />
+		<col width="55px;" />
+		<col width="190px;" />
+		<col width="85px;" />
+		<col width="60px;" />
+		<col width="60px" />
+		<col width="60px;" />
+		<col width="75px;" />
+		<col width="150px;" />
+		<col width="150px;" />
+		<col width="110px;" />
+		<col width="60px;" />
+		<col width="150px" />
+		<col width="60px;" />
+		<col width="60px;" />
+		<col width="60px;" />
+		<col width="75px;" />
+		<col width="60px;" />
+		<col width="60px;" />
+		<col width="60px" />
+		<col width="75px;" />
+		
+	</colgroup>
+	<thead>
+		<tr bgcolor="#ebf2f7">
+			
+			
+			<th>사고번호</th>
+			<th>사고일시</th>
+			<th>요일</th>
+			<th>시군구</th>
+			
+			<th>사고내용</th>
+			<th>사망자수</th>
+			<th>중상자수</th>
+			<th>경상자수</th>
+			<th>부상신고자수</th>
+			<th>사고유형</th>
+			<th>법규위반</th>
+			<th>노면상태</th>
+			<th>기상상태</th>
+			<th>도로형태</th>
+			<th>가해운전자 차종</th>
+			<th>가해운전자 성별</th>
+			<th>가해운전자 연령</th>
+			<th>가해운전자 상해정도</th>
+			<th>피해운전자 차종</th>
+			<th>피해운전자 성별</th>
+			<th>피해운전자 연령</th>
+			<th>피해운전자 상해정도</th>
+			
+		</tr>
+	</thead>
+	<tbody>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021010700100192</td>
+					<td>2021년  1월  7일 13시</td>
+					<td>목요일</td>
+					<td>전라남도 무안군 무안읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 적설</td>
+					<td>눈</td>
+					<td>단일로 - 교량</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>71세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>50세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021010700100266</td>
+					<td>2021년  1월  7일 16시</td>
+					<td>목요일</td>
+					<td>전라남도 함평군 손불면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 적설</td>
+					<td>눈</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>47세</td>
+					<td>경상</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>48세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021010700100267</td>
+					<td>2021년  1월  7일 16시</td>
+					<td>목요일</td>
+					<td>전라남도 함평군 손불면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 서리/결빙</td>
+					<td>눈</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>66세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>51세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021010800100090</td>
+					<td>2021년  1월  8일 10시</td>
+					<td>금요일</td>
+					<td>전라남도 함평군 함평읍</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 서리/결빙</td>
+					<td>눈</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>51세</td>
+					<td>중상</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>37세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021011200100107</td>
+					<td>2021년  1월 12일 10시</td>
+					<td>화요일</td>
+					<td>전라남도 담양군 담양읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>신호위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>42세</td>
+					<td>경상</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>37세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021011200100321</td>
+					<td>2021년  1월 12일 17시</td>
+					<td>화요일</td>
+					<td>전라남도 순천시 서면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>47세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>43세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021011800100104</td>
+					<td>2021년  1월 18일 10시</td>
+					<td>월요일</td>
+					<td>전라남도 장성군 북이면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 적설</td>
+					<td>눈</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>61세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>44세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021012100100331</td>
+					<td>2021년  1월 21일 16시</td>
+					<td>목요일</td>
+					<td>전라남도 곡성군 오산면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>기타</td>
+					<td>포장 - 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>56세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>28세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021012300100421</td>
+					<td>2021년  1월 23일 20시</td>
+					<td>토요일</td>
+					<td>전라남도 순천시 황전면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>흐림</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>56세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>43세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021012700100428</td>
+					<td>2021년  1월 27일 19시</td>
+					<td>수요일</td>
+					<td>전라남도 순천시 서면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>57세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>36세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021012900100197</td>
+					<td>2021년  1월 29일 11시</td>
+					<td>금요일</td>
+					<td>전라남도 담양군 고서면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>46세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>28세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021013000100423</td>
+					<td>2021년  1월 30일 19시</td>
+					<td>토요일</td>
+					<td>전라남도 무안군 무안읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>9</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td>포장 - 건조</td>
+					<td>흐림</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>42세</td>
+					<td>경상</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>36세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021020800100083</td>
+					<td>2021년  2월  8일 08시</td>
+					<td>월요일</td>
+					<td>전라남도 곡성군 오산면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전거리미확보</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>37세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>28세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021021600100335</td>
+					<td>2021년  2월 16일 16시</td>
+					<td>화요일</td>
+					<td>전라남도 순천시 서면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>중앙선침범</td>
+					<td>포장 - 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 교량</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>28세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>37세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021021700100032</td>
+					<td>2021년  2월 17일 05시</td>
+					<td>수요일</td>
+					<td>전라남도 나주시 노안면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 적설</td>
+					<td>눈</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>52세</td>
+					<td>경상</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>40세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021021700100239</td>
+					<td>2021년  2월 17일 13시</td>
+					<td>수요일</td>
+					<td>전라남도 장성군 북이면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전거리미확보</td>
+					<td>포장 - 적설</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>53세</td>
+					<td>중상</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>44세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021021700100334</td>
+					<td>2021년  2월 17일 16시</td>
+					<td>수요일</td>
+					<td>전라남도 장성군 서삼면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차량단독 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 젖음/습기</td>
+					<td>눈</td>
+					<td>단일로 - 터널</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>61세</td>
+					<td>상해없음</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021022500100253</td>
+					<td>2021년  2월 25일 15시</td>
+					<td>목요일</td>
+					<td>전라남도 고흥군 동강면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 젖음/습기</td>
+					<td>흐림</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>40세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>30세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021022500100365</td>
+					<td>2021년  2월 25일 18시</td>
+					<td>목요일</td>
+					<td>전라남도 함평군 함평읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td>포장 - 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>26세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>73세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021030400100058</td>
+					<td>2021년  3월  4일 07시</td>
+					<td>목요일</td>
+					<td>전라남도 장성군 장성읍</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차량단독 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>42세</td>
+					<td>중상</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021030500100488</td>
+					<td>2021년  3월  5일 19시</td>
+					<td>금요일</td>
+					<td>전라남도 나주시 문평면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>27세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>24세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021030500100522</td>
+					<td>2021년  3월  5일 20시</td>
+					<td>금요일</td>
+					<td>전라남도 나주시 문평면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>24세</td>
+					<td>경상</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>49세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021030800100292</td>
+					<td>2021년  3월  8일 14시</td>
+					<td>월요일</td>
+					<td>전라남도 무안군 무안읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>44세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>62세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021031100100439</td>
+					<td>2021년  3월 11일 19시</td>
+					<td>목요일</td>
+					<td>전라남도 순천시 승주읍</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>58세</td>
+					<td>상해없음</td>
+					<td>특수</td>
+					<td>남</td>
+					<td>62세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021031600100180</td>
+					<td>2021년  3월 16일 10시</td>
+					<td>화요일</td>
+					<td>전라남도 장성군 북이면</td>
+				
+					<td>사망사고</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>기타</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>52세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>여</td>
+					<td>53세</td>
+					<td>사망</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021031700100114</td>
+					<td>2021년  3월 17일 09시</td>
+					<td>수요일</td>
+					<td>전라남도 순천시 승주읍</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>36세</td>
+					<td>중상</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>43세</td>
+					<td>기타불명</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021032000100101</td>
+					<td>2021년  3월 20일 10시</td>
+					<td>토요일</td>
+					<td>전라남도 순천시 황전면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>5</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>기타</td>
+					<td>포장 - 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>58세</td>
+					<td>경상</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>58세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021032100100049</td>
+					<td>2021년  3월 21일 07시</td>
+					<td>일요일</td>
+					<td>전라남도 곡성군 석곡면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>중앙선침범</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>67세</td>
+					<td>상해없음</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>41세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021032200100052</td>
+					<td>2021년  3월 22일 07시</td>
+					<td>월요일</td>
+					<td>전라남도 장성군 장성읍</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>55세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>54세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021032900100301</td>
+					<td>2021년  3월 29일 13시</td>
+					<td>월요일</td>
+					<td>전라남도 강진군 병영면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 터널</td>
+					<td>건설기계</td>
+					<td>남</td>
+					<td>53세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>40세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021040100100038</td>
+					<td>2021년  4월  1일 05시</td>
+					<td>목요일</td>
+					<td>전라남도 영광군 불갑면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>61세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>56세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021040500100004</td>
+					<td>2021년  4월  5일 00시</td>
+					<td>월요일</td>
+					<td>전라남도 장성군 남면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>24세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>42세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021040800100103</td>
+					<td>2021년  4월  8일 08시</td>
+					<td>목요일</td>
+					<td>전라남도 장성군 장성읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>22세</td>
+					<td>경상</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>51세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021041800100080</td>
+					<td>2021년  4월 18일 10시</td>
+					<td>일요일</td>
+					<td>전라남도 장성군 남면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>62세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>52세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021051800100190</td>
+					<td>2021년  5월 18일 12시</td>
+					<td>화요일</td>
+					<td>전라남도 곡성군 삼기면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>23세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>38세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021051800100525</td>
+					<td>2021년  5월 18일 20시</td>
+					<td>화요일</td>
+					<td>전라남도 광양시 광양읍</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>26세</td>
+					<td>중상</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>32세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021052000100015</td>
+					<td>2021년  5월 20일 02시</td>
+					<td>목요일</td>
+					<td>전라남도 순천시 서면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>47세</td>
+					<td>경상</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>47세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021052200100567</td>
+					<td>2021년  5월 22일 21시</td>
+					<td>토요일</td>
+					<td>전라남도 나주시 문평면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>44세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>54세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021052400100476</td>
+					<td>2021년  5월 24일 19시</td>
+					<td>월요일</td>
+					<td>전라남도 나주시 문평면</td>
+				
+					<td>사망사고</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차량단독 - 전도전복 - 전복</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>61세</td>
+					<td>사망</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021052600100237</td>
+					<td>2021년  5월 26일 13시</td>
+					<td>수요일</td>
+					<td>전라남도 영광군 군서면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>신호위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>60세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>61세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021052800100104</td>
+					<td>2021년  5월 28일 08시</td>
+					<td>금요일</td>
+					<td>전라남도 곡성군 겸면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>30세</td>
+					<td>중상</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>38세</td>
+					<td>기타불명</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021060100100268</td>
+					<td>2021년  6월  1일 13시</td>
+					<td>화요일</td>
+					<td>전라남도 순천시 승주읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>35세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>38세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021060400100410</td>
+					<td>2021년  6월  4일 16시</td>
+					<td>금요일</td>
+					<td>전라남도 곡성군 겸면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>52세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>44세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021060400100681</td>
+					<td>2021년  6월  4일 23시</td>
+					<td>금요일</td>
+					<td>전라남도 영암군 학산면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>6</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>23세</td>
+					<td>경상</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>40세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021060800100120</td>
+					<td>2021년  6월  8일 09시</td>
+					<td>화요일</td>
+					<td>전라남도 보성군 보성읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 터널</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>21세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>44세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021060900100421</td>
+					<td>2021년  6월  9일 17시</td>
+					<td>수요일</td>
+					<td>전라남도 나주시 문평면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>26세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>36세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021061200100363</td>
+					<td>2021년  6월 12일 15시</td>
+					<td>토요일</td>
+					<td>전라남도 광양시 광양읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>25세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>49세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021061300100022</td>
+					<td>2021년  6월 13일 02시</td>
+					<td>일요일</td>
+					<td>전라남도 영광군 군서면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>기타불명</td>
+					<td>미분류</td>
+					<td>기타불명</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>52세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021061500100541</td>
+					<td>2021년  6월 15일 21시</td>
+					<td>화요일</td>
+					<td>전라남도 순천시 서면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>기타</td>
+					<td>포장 - 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>기타불명</td>
+					<td>미분류</td>
+					<td>기타불명</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>40세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021061600100307</td>
+					<td>2021년  6월 16일 14시</td>
+					<td>수요일</td>
+					<td>전라남도 순천시 서면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>51세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>38세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021061800100177</td>
+					<td>2021년  6월 18일 11시</td>
+					<td>금요일</td>
+					<td>전라남도 장성군 북이면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>주차장 - 주차장</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>71세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>35세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021061900100021</td>
+					<td>2021년  6월 19일 01시</td>
+					<td>토요일</td>
+					<td>전라남도 장성군 장성읍</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>36세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>54세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021061900100022</td>
+					<td>2021년  6월 19일 01시</td>
+					<td>토요일</td>
+					<td>전라남도 장성군 장성읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>4</td>
+					<td>0</td>
+					<td>차량단독 - 공작물충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>36세</td>
+					<td>경상</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021062000100044</td>
+					<td>2021년  6월 20일 05시</td>
+					<td>일요일</td>
+					<td>전라남도 함평군 함평읍</td>
+				
+					<td>부상신고사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>차량단독 - 공작물충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>29세</td>
+					<td>부상신고</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021062200100203</td>
+					<td>2021년  6월 22일 11시</td>
+					<td>화요일</td>
+					<td>전라남도 무안군 무안읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>64세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>67세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021062200100545</td>
+					<td>2021년  6월 22일 21시</td>
+					<td>화요일</td>
+					<td>전라남도 장성군 북이면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>차로위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>42세</td>
+					<td>상해없음</td>
+					<td>특수</td>
+					<td>남</td>
+					<td>53세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021062500100365</td>
+					<td>2021년  6월 25일 15시</td>
+					<td>금요일</td>
+					<td>전라남도 나주시 노안면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>기타</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>35세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>39세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021062900100004</td>
+					<td>2021년  6월 29일 00시</td>
+					<td>화요일</td>
+					<td>전라남도 장성군 장성읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>7</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>35세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>42세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021070400100036</td>
+					<td>2021년  7월  4일 01시</td>
+					<td>일요일</td>
+					<td>전라남도 무안군 일로읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>60세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>29세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021071200100512</td>
+					<td>2021년  7월 12일 20시</td>
+					<td>월요일</td>
+					<td>전라남도 순천시 주암면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>34세</td>
+					<td>상해없음</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>48세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021071300100638</td>
+					<td>2021년  7월 13일 23시</td>
+					<td>화요일</td>
+					<td>전라남도 담양군 무정면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>6</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 정면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>60세</td>
+					<td>중상</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>24세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021071300100639</td>
+					<td>2021년  7월 13일 23시</td>
+					<td>화요일</td>
+					<td>전라남도 담양군 무정면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>42세</td>
+					<td>중상</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>42세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021071700100317</td>
+					<td>2021년  7월 17일 14시</td>
+					<td>토요일</td>
+					<td>전라남도 광양시 광양읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 후진중충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>53세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>28세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021071900100424</td>
+					<td>2021년  7월 19일 17시</td>
+					<td>월요일</td>
+					<td>전라남도 장성군 북일면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>44세</td>
+					<td>경상</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>52세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021072600100170</td>
+					<td>2021년  7월 26일 10시</td>
+					<td>월요일</td>
+					<td>전라남도 담양군 대전면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>49세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>26세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021080300100148</td>
+					<td>2021년  8월  3일 11시</td>
+					<td>화요일</td>
+					<td>전라남도 무안군 일로읍</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>3</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>37세</td>
+					<td>경상</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>34세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021080300100149</td>
+					<td>2021년  8월  3일 11시</td>
+					<td>화요일</td>
+					<td>전라남도 담양군 고서면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>28세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>42세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021080800100338</td>
+					<td>2021년  8월  8일 19시</td>
+					<td>일요일</td>
+					<td>전라남도 장성군 남면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>18세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>60세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021081600100216</td>
+					<td>2021년  8월 16일 14시</td>
+					<td>월요일</td>
+					<td>전라남도 보성군 겸백면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>3</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>55세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>46세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021081700100140</td>
+					<td>2021년  8월 17일 10시</td>
+					<td>화요일</td>
+					<td>전라남도 영광군 불갑면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>59세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>28세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021081700100215</td>
+					<td>2021년  8월 17일 12시</td>
+					<td>화요일</td>
+					<td>전라남도 곡성군 오산면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>72세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>25세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021082300100544</td>
+					<td>2021년  8월 23일 21시</td>
+					<td>월요일</td>
+					<td>전라남도 담양군 대전면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>42세</td>
+					<td>상해없음</td>
+					<td>특수</td>
+					<td>남</td>
+					<td>41세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021082700100415</td>
+					<td>2021년  8월 27일 18시</td>
+					<td>금요일</td>
+					<td>전라남도 장성군 진원면</td>
+				
+					<td>부상신고사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>차량단독 - 공작물충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>47세</td>
+					<td>부상신고</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021083100100347</td>
+					<td>2021년  8월 31일 15시</td>
+					<td>화요일</td>
+					<td>전라남도 구례군 용방면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>30세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>55세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021092000100420</td>
+					<td>2021년  9월 20일 21시</td>
+					<td>월요일</td>
+					<td>전라남도 순천시 주암면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>1</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>흐림</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>30세</td>
+					<td>경상</td>
+					<td>승용</td>
+					<td>기타불명</td>
+					<td>미분류</td>
+					<td>기타불명</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021092200100247</td>
+					<td>2021년  9월 22일 16시</td>
+					<td>수요일</td>
+					<td>전라남도 무안군 일로읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>5</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>45세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>27세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021092400100113</td>
+					<td>2021년  9월 24일 09시</td>
+					<td>금요일</td>
+					<td>전라남도 곡성군 삼기면</td>
+				
+					<td>사망사고</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차량단독 - 주/정차차량 충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>31세</td>
+					<td>사망</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021092900100607</td>
+					<td>2021년  9월 29일 22시</td>
+					<td>수요일</td>
+					<td>전라남도 순천시 해룡면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>59세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>49세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021100100100358</td>
+					<td>2021년 10월  1일 15시</td>
+					<td>금요일</td>
+					<td>전라남도 나주시 문평면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>65세</td>
+					<td>경상</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>52세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021102400100058</td>
+					<td>2021년 10월 24일 07시</td>
+					<td>일요일</td>
+					<td>전라남도 함평군 대동면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>43세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>42세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021110700100310</td>
+					<td>2021년 11월  7일 16시</td>
+					<td>일요일</td>
+					<td>전라남도 영광군 군서면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>신호위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>47세</td>
+					<td>상해없음</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>56세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021110900100344</td>
+					<td>2021년 11월  9일 15시</td>
+					<td>화요일</td>
+					<td>전라남도 곡성군 석곡면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>55세</td>
+					<td>중상</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>62세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021111100100392</td>
+					<td>2021년 11월 11일 16시</td>
+					<td>목요일</td>
+					<td>전라남도 무안군 일로읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>55세</td>
+					<td>경상</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>32세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021111200100404</td>
+					<td>2021년 11월 12일 16시</td>
+					<td>금요일</td>
+					<td>전라남도 장성군 장성읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>중앙선침범</td>
+					<td>포장 - 젖음/습기</td>
+					<td>흐림</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>72세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>37세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021111800100544</td>
+					<td>2021년 11월 18일 20시</td>
+					<td>목요일</td>
+					<td>전라남도 영광군 대마면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>기타</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>48세</td>
+					<td>경상</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>51세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021120700100187</td>
+					<td>2021년 12월  7일 11시</td>
+					<td>화요일</td>
+					<td>전라남도 무안군 일로읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>67세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>45세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021120900100065</td>
+					<td>2021년 12월  9일 07시</td>
+					<td>목요일</td>
+					<td>전라남도 곡성군 겸면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 정면충돌</td>
+					<td>중앙선침범</td>
+					<td>포장 - 젖음/습기</td>
+					<td>안개</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>52세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>61세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021121700100603</td>
+					<td>2021년 12월 17일 20시</td>
+					<td>금요일</td>
+					<td>전라남도 장성군 장성읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차량단독 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 적설</td>
+					<td>눈</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>51세</td>
+					<td>상해없음</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021121800100388</td>
+					<td>2021년 12월 18일 16시</td>
+					<td>토요일</td>
+					<td>전라남도 영암군 서호면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>39세</td>
+					<td>경상</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>50세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021122600100108</td>
+					<td>2021년 12월 26일 13시</td>
+					<td>일요일</td>
+					<td>전라남도 순천시 황전면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>5</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>주차장 - 주차장</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>26세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>35세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+	</tbody>
+</table>
+
+</body>
+</html>

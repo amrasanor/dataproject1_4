@@ -1,0 +1,1779 @@
+
+
+
+
+
+
+
+
+	
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+table {width:100%;border-top:1px solid #737678;}
+td {border:1px solid #cccccc;text-align:center;vertical-align:middle;}
+.format-text-excel {mso-number-format:\@;}
+</style>
+
+<h></h>
+<table id="tableAllAcdntInfoList">
+	<colgroup>
+		<col width="40px;" />
+		<col width="103px;" />
+		<col width="135px;" />
+		<col width="55px;" />
+		<col width="190px;" />
+		<col width="85px;" />
+		<col width="60px;" />
+		<col width="60px" />
+		<col width="60px;" />
+		<col width="75px;" />
+		<col width="150px;" />
+		<col width="150px;" />
+		<col width="110px;" />
+		<col width="60px;" />
+		<col width="150px" />
+		<col width="60px;" />
+		<col width="60px;" />
+		<col width="60px;" />
+		<col width="75px;" />
+		<col width="60px;" />
+		<col width="60px;" />
+		<col width="60px" />
+		<col width="75px;" />
+		
+	</colgroup>
+	<thead>
+		<tr bgcolor="#ebf2f7">
+			
+			
+			<th>사고번호</th>
+			<th>사고일시</th>
+			<th>요일</th>
+			<th>시군구</th>
+			
+			<th>사고내용</th>
+			<th>사망자수</th>
+			<th>중상자수</th>
+			<th>경상자수</th>
+			<th>부상신고자수</th>
+			<th>사고유형</th>
+			<th>법규위반</th>
+			<th>노면상태</th>
+			<th>기상상태</th>
+			<th>도로형태</th>
+			<th>가해운전자 차종</th>
+			<th>가해운전자 성별</th>
+			<th>가해운전자 연령</th>
+			<th>가해운전자 상해정도</th>
+			<th>피해운전자 차종</th>
+			<th>피해운전자 성별</th>
+			<th>피해운전자 연령</th>
+			<th>피해운전자 상해정도</th>
+			
+		</tr>
+	</thead>
+	<tbody>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021010300100130</td>
+					<td>2021년  1월  3일 16시</td>
+					<td>일요일</td>
+					<td>대전광역시 대덕구 신대동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>55세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>32세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021010600100359</td>
+					<td>2021년  1월  6일 18시</td>
+					<td>수요일</td>
+					<td>대전광역시 서구 관저동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>39세</td>
+					<td>경상</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>49세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021010700100113</td>
+					<td>2021년  1월  7일 10시</td>
+					<td>목요일</td>
+					<td>대전광역시 대덕구 비래동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>3</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 젖음/습기</td>
+					<td>눈</td>
+					<td>단일로 - 교량</td>
+					<td>특수</td>
+					<td>남</td>
+					<td>57세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>27세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021011500100290</td>
+					<td>2021년  1월 15일 15시</td>
+					<td>금요일</td>
+					<td>대전광역시 대덕구 송촌동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>차로위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>58세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>56세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021012000100595</td>
+					<td>2021년  1월 20일 20시</td>
+					<td>수요일</td>
+					<td>대전광역시 대덕구 덕암동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 지하차도(도로)내</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>63세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>25세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021012700100104</td>
+					<td>2021년  1월 27일 09시</td>
+					<td>수요일</td>
+					<td>대전광역시 대덕구 신대동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 지하차도(도로)내</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>49세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>25세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021013100100329</td>
+					<td>2021년  1월 31일 20시</td>
+					<td>일요일</td>
+					<td>대전광역시 유성구 탑립동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>특수</td>
+					<td>남</td>
+					<td>53세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>37세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021020500100064</td>
+					<td>2021년  2월  5일 08시</td>
+					<td>금요일</td>
+					<td>대전광역시 대덕구 연축동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>차로위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>42세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>53세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021020700100393</td>
+					<td>2021년  2월  7일 22시</td>
+					<td>일요일</td>
+					<td>대전광역시 유성구 하기동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>특수</td>
+					<td>남</td>
+					<td>43세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>41세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021020900100270</td>
+					<td>2021년  2월  9일 13시</td>
+					<td>화요일</td>
+					<td>대전광역시 대덕구 석봉동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 지하차도(도로)내</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>19세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>60세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021021500100310</td>
+					<td>2021년  2월 15일 17시</td>
+					<td>월요일</td>
+					<td>대전광역시 동구 삼정동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>63세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>37세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021021900100502</td>
+					<td>2021년  2월 19일 18시</td>
+					<td>금요일</td>
+					<td>대전광역시 대덕구 덕암동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>신호위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>특수</td>
+					<td>남</td>
+					<td>62세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>24세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021022100100369</td>
+					<td>2021년  2월 21일 21시</td>
+					<td>일요일</td>
+					<td>대전광역시 대덕구 연축동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>50세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>53세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021030100100400</td>
+					<td>2021년  3월  1일 21시</td>
+					<td>월요일</td>
+					<td>대전광역시 대덕구 와동</td>
+				
+					<td>부상신고사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td>포장 - 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>기타불명</td>
+					<td>기타불명</td>
+					<td>미분류</td>
+					<td>기타불명</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>52세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021030400100394</td>
+					<td>2021년  3월  4일 19시</td>
+					<td>목요일</td>
+					<td>대전광역시 유성구 장대동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>50세</td>
+					<td>기타불명</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>39세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021030600100443</td>
+					<td>2021년  3월  6일 21시</td>
+					<td>토요일</td>
+					<td>대전광역시 대덕구 신대동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>4</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 지하차도(도로)내</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>51세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>42세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021030800100323</td>
+					<td>2021년  3월  8일 15시</td>
+					<td>월요일</td>
+					<td>대전광역시 대덕구 상서동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 정면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 지하차도(도로)내</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>60세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>41세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021031200100068</td>
+					<td>2021년  3월 12일 08시</td>
+					<td>금요일</td>
+					<td>대전광역시 대덕구 덕암동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>52세</td>
+					<td>기타불명</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>23세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021031500100336</td>
+					<td>2021년  3월 15일 16시</td>
+					<td>월요일</td>
+					<td>대전광역시 중구 구완동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>신호위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 터널</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>49세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>31세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021031900100117</td>
+					<td>2021년  3월 19일 09시</td>
+					<td>금요일</td>
+					<td>대전광역시 대덕구 읍내동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>6</td>
+					<td>5</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>69세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>31세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021032700100313</td>
+					<td>2021년  3월 27일 15시</td>
+					<td>토요일</td>
+					<td>대전광역시 대덕구 신대동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>차로위반</td>
+					<td>포장 - 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>19세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>60세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021040800100385</td>
+					<td>2021년  4월  8일 16시</td>
+					<td>목요일</td>
+					<td>대전광역시 서구 관저동</td>
+				
+					<td>부상신고사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>차대차 - 후진중충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>69세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>38세</td>
+					<td>부상신고</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021041100100304</td>
+					<td>2021년  4월 11일 16시</td>
+					<td>일요일</td>
+					<td>대전광역시 대덕구 신대동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 지하차도(도로)내</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>27세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>53세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021041700100172</td>
+					<td>2021년  4월 17일 11시</td>
+					<td>토요일</td>
+					<td>대전광역시 대덕구 신대동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전거리미확보</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>건설기계</td>
+					<td>남</td>
+					<td>47세</td>
+					<td>경상</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>58세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021041800100354</td>
+					<td>2021년  4월 18일 20시</td>
+					<td>일요일</td>
+					<td>대전광역시 대덕구 신대동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>50세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>55세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021042000100057</td>
+					<td>2021년  4월 20일 07시</td>
+					<td>화요일</td>
+					<td>대전광역시 유성구 장대동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>47세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>43세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021042400100362</td>
+					<td>2021년  4월 24일 16시</td>
+					<td>토요일</td>
+					<td>대전광역시 동구 삼정동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>신호위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>46세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>42세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021050800100443</td>
+					<td>2021년  5월  8일 17시</td>
+					<td>토요일</td>
+					<td>대전광역시 유성구 원내동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>40세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>42세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021050800100603</td>
+					<td>2021년  5월  8일 22시</td>
+					<td>토요일</td>
+					<td>대전광역시 유성구 장대동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>50세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>41세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021060100100134</td>
+					<td>2021년  6월  1일 09시</td>
+					<td>화요일</td>
+					<td>대전광역시 동구 구도동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>차로위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>특수</td>
+					<td>남</td>
+					<td>63세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>35세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021060300100101</td>
+					<td>2021년  6월  3일 08시</td>
+					<td>목요일</td>
+					<td>대전광역시 유성구 방동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td>포장 - 건조</td>
+					<td>흐림</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>47세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>61세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021061600100136</td>
+					<td>2021년  6월 16일 09시</td>
+					<td>수요일</td>
+					<td>대전광역시 대덕구 송촌동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>43세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>32세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021070200100187</td>
+					<td>2021년  7월  2일 11시</td>
+					<td>금요일</td>
+					<td>대전광역시 대덕구 법동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>80세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>36세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021071300100105</td>
+					<td>2021년  7월 13일 08시</td>
+					<td>화요일</td>
+					<td>대전광역시 대덕구 상서동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>주차장 - 주차장</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>65세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>49세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021071600100081</td>
+					<td>2021년  7월 16일 08시</td>
+					<td>금요일</td>
+					<td>대전광역시 유성구 원내동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>42세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>58세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021072000100307</td>
+					<td>2021년  7월 20일 15시</td>
+					<td>화요일</td>
+					<td>대전광역시 유성구 학하동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>기타</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>40세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>40세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021080100100213</td>
+					<td>2021년  8월  1일 15시</td>
+					<td>일요일</td>
+					<td>대전광역시 유성구 하기동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>22세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>62세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021080200100240</td>
+					<td>2021년  8월  2일 13시</td>
+					<td>월요일</td>
+					<td>대전광역시 유성구 화암동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>55세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>25세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021080200100424</td>
+					<td>2021년  8월  2일 18시</td>
+					<td>월요일</td>
+					<td>대전광역시 대덕구 덕암동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>중앙선침범</td>
+					<td>포장 - 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 지하차도(도로)내</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>49세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>47세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021081500100202</td>
+					<td>2021년  8월 15일 14시</td>
+					<td>일요일</td>
+					<td>대전광역시 유성구 자운동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>53세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>28세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021082200100213</td>
+					<td>2021년  8월 22일 15시</td>
+					<td>일요일</td>
+					<td>대전광역시 대덕구 송촌동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>65세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>24세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021082300100089</td>
+					<td>2021년  8월 23일 09시</td>
+					<td>월요일</td>
+					<td>대전광역시 서구 관저동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>55세</td>
+					<td>경상</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>48세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021082300100502</td>
+					<td>2021년  8월 23일 20시</td>
+					<td>월요일</td>
+					<td>대전광역시 대덕구 비래동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>26세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>52세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021082600100326</td>
+					<td>2021년  8월 26일 15시</td>
+					<td>목요일</td>
+					<td>대전광역시 유성구 장대동</td>
+				
+					<td>사망사고</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>66세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>47세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021090600100618</td>
+					<td>2021년  9월  6일 21시</td>
+					<td>월요일</td>
+					<td>대전광역시 중구 안영동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>56세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>39세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021091400100558</td>
+					<td>2021년  9월 14일 18시</td>
+					<td>화요일</td>
+					<td>대전광역시 중구 안영동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 터널</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>31세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>30세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021101000100024</td>
+					<td>2021년 10월 10일 02시</td>
+					<td>일요일</td>
+					<td>대전광역시 대덕구 비래동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>특수</td>
+					<td>남</td>
+					<td>45세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>28세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021101000100481</td>
+					<td>2021년 10월 10일 21시</td>
+					<td>일요일</td>
+					<td>대전광역시 유성구 안산동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>19세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>26세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021102100100014</td>
+					<td>2021년 10월 21일 01시</td>
+					<td>목요일</td>
+					<td>대전광역시 유성구 노은동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>52세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>71세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021102400100102</td>
+					<td>2021년 10월 24일 10시</td>
+					<td>일요일</td>
+					<td>대전광역시 유성구 원내동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>67세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>41세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021102400100199</td>
+					<td>2021년 10월 24일 13시</td>
+					<td>일요일</td>
+					<td>대전광역시 서구 관저동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차량단독 - 전도전복 - 전도</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>특수</td>
+					<td>남</td>
+					<td>65세</td>
+					<td>상해없음</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021110100100611</td>
+					<td>2021년 11월  1일 23시</td>
+					<td>월요일</td>
+					<td>대전광역시 유성구 장대동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>57세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>34세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021110200100044</td>
+					<td>2021년 11월  2일 05시</td>
+					<td>화요일</td>
+					<td>대전광역시 유성구 화암동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>기타</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>49세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>71세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021111900100010</td>
+					<td>2021년 11월 19일 00시</td>
+					<td>금요일</td>
+					<td>대전광역시 중구 구완동</td>
+				
+					<td>사망사고</td>
+					<td>1</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 터널</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>40세</td>
+					<td>사망</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>44세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021112600100085</td>
+					<td>2021년 11월 26일 07시</td>
+					<td>금요일</td>
+					<td>대전광역시 유성구 화암동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>기타</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>건설기계</td>
+					<td>남</td>
+					<td>62세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>56세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021112900100596</td>
+					<td>2021년 11월 29일 21시</td>
+					<td>월요일</td>
+					<td>대전광역시 대덕구 덕암동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>38세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>39세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021121200100413</td>
+					<td>2021년 12월 12일 23시</td>
+					<td>일요일</td>
+					<td>대전광역시 유성구 안산동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>28세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>46세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021122800100466</td>
+					<td>2021년 12월 28일 20시</td>
+					<td>화요일</td>
+					<td>대전광역시 대덕구 목상동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>36세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>64세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+	</tbody>
+</table>
+
+</body>
+</html>
